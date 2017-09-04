@@ -30,7 +30,10 @@ Under the `Access` section pick the appropriate type of license your uploaded co
 2. Click on the *Published* link.
 3. Click on the *...* next to the *Open* link.
 4. Select *Remove...*.
-5. There will be two options.  `Abandon the claim for this URI` and `Delete this file from my computer`.  Select the option that applies.  Abandoning your claim will release the LBC back into your wallet<b>Warning: Deleting content is permanent.  Please make sure this is what you want to do before confirming the deletion.
+5. There will be two options.  `Abandon the claim for this URI` and `Delete this file from my computer`.  Select the option that applies.  Abandoning your claim will release the LBC back into your wallet 
+```diff
+- Deleting content is permanent.  Please make sure this is what you want to do before confirming the deletion.
+```
 6. Click *Remove*.
 
 ### Editing your claim on a channel
